@@ -215,12 +215,16 @@ def reset():
     # expression = ""
     # expDisplay = ""
     # UD = ""
+    temp = "  "
+    temp2 ="  "
     for i in range(len(expression)):
         bsExp_bt()
+        temp += " "
     for j in range(len(UD)):
         bsUD_bt()
-    labelExp2 = ttk.Label(textbox, text="").grid(column=0,row=3)
-    labelUD2 = ttk.Label(textbox, text="").grid(column=0,row=1)
+        temp2 += " "
+    labelExp2 = ttk.Label(textbox, text=temp).grid(column=0,row=3)
+    labelUD2 = ttk.Label(textbox, text=temp2).grid(column=0,row=1)
     return None
 
 #shortcut functions
