@@ -39,9 +39,7 @@ Keyboard Shortcuts:
 - @ = for all
 - \ = exists
 - $ = implies
-- _ = subset
 - % = bidirectional
-- # = not equal
 
 ## Planned Changes:
 - Implement validation of expanded expressions
