@@ -1,17 +1,17 @@
 # TruthFunctionalExpansion
-## Authors
+## Authors:
 2021:
 Cole Feuer and David Wiser
 
-## About
+## About:
 
 How to use:
 
 
-## Planned Changes
+## Planned Changes:
 -
 
-## Installation
+## Installation:
 
-Known Issues:
+## Known Issues:
     
