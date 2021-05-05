@@ -32,6 +32,17 @@ How to use:
 - 20: Backspace expression
 - 21: Output display
 
+Keyboard Shortcuts:
+# ~ = not
+# & = and
+# | = or
+# @ = for all
+# \ = exists
+# $ = implies
+# _ = subset
+# % = bidirectional
+# # = not equal
+
 ## Planned Changes:
 - Implement validation of expanded expressions
 - Fix backspace and reset 
