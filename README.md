@@ -43,7 +43,7 @@ Keyboard Shortcuts:
 
 ## Planned Changes:
 - Implement validation of expanded expressions
-- Fix backspace and reset 
+- Fix backspace and reset (possibly resolved)
 - Fix unicode conversion
 
 ## Installation:
@@ -57,6 +57,6 @@ Keyboard Shortcuts:
 
 ## Known Issues:
 - certain sybmols from the character representation back into the unicode logic symbols yeilded strange results. Specifically, the or, if, and exists. You can find that the associated lines in the conv_str2Log function are commented out and thus remain as the internal character representation. This does not impede the functionality of the code however reduces the readability and forces the user to refrence the documentaion on what the symbold represent.
-- the backspace and reset buttons were causing problems as the tkinter labels were not able to be destroyed visually although there variables do in fact change. A band-aid solution was applied which over write a blank string on top however there can still be dots in the background. Again, this is a purely a user expereince issue but doesnt mess up the functionality.
-- the parenhesis and x, y, z shortcuts can conflict with the entry box. If any of these symbols are typed into the entry box the will automatically be added to the expression causing it to double.
+- the backspace and reset buttons were causing problems as the tkinter labels were not able to be destroyed visually although there variables do in fact change. A band-aid solution was applied which over write a blank string on top however there can still be dots in the background. Again, this is a purely a user expereince issue but doesnt mess up the functionality. (resolved)
+- the parenhesis and x, y, z shortcuts can conflict with the entry box. If any of these symbols are typed into the entry box the will automatically be added to the expression causing it to double. (resolved)
 - extra parenthesis are sometimes added which doesnt impact the logic but makes the output much harder to read. 
