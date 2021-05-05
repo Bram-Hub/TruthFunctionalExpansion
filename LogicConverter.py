@@ -48,9 +48,9 @@ def exists(eq, ud):
 # param: input, string containing input to be checked if valid equation
 # returns: True if input is valid first order logic, False otherwise
 def inputChecker(input):
-    special = "&|@\\$_%#"
-    operations = "&|$_%#"
-    nonchars = "&|@\\$_%#~()"
+    special = "&|@\\$_%#,"
+    operations = "&|$_%#,"
+    nonchars = "&|@\\$_%#~(),"
     parcount = 0
     for n in input:
         if n == "(":
