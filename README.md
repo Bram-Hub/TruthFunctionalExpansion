@@ -10,6 +10,27 @@ How to use:
 
 ![Interface](/Interface.png)
 
+- 1: adds and to expression
+- 2: adds or to expression
+- 3: adds negation to expression
+- 4: adds exists to expression
+- 5: adds forall to expression
+- 6: adds implies to expression
+- 7: adds open parentheses to expression
+- 8: adds closed parentheses to expression
+- 9: adds biconditional to expression
+- 10: adds x to expression
+- 11: adds y to expression
+- 12: adds z to expression
+- 13: Universe of discourse display
+- 14: Expression display
+- 15: Entry box for expression
+- 16: Entry box for universe of discourse
+- 17: Run button
+- 18: Reset button
+- 19: Backspace universe of discourse
+- 20: Backspace expression
+- 21: Output display
 
 ## Planned Changes:
 - Implement validation of expanded expressions
