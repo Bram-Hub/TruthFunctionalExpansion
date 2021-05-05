@@ -12,7 +12,13 @@ How to use:
 -
 
 ## Installation:
-testing is fun
+### Windows
+Download the repository
+Double click on LogicExpander1.6.py and you should see the application interface.
+
+### Mac
+Download the repository
+Open LogicExpander1.6.py with any python compiler and then run and you should see the application interface.
 
 ## Known Issues:
-    cole is here
+
