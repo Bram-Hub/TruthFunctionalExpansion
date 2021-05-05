@@ -7,6 +7,7 @@ Cole Feuer and David Wiser
 The TruthFunctionalExpansion tool takes given First order logic statement as well as a universe of discourse, and then produces a proposition logic expression than can be validate using a short truth tree.  This method specifically can be used to prove FO invalidity
 
 How to use:
+![Interface](/InterfaceImage.png)
 
 
 ## Planned Changes:
