@@ -9,7 +9,8 @@ How to use:
 
 
 ## Planned Changes:
--
+- Implement validation of expanded expressions
+- Fix backspace and reset 
 
 ## Installation:
 ### Windows
