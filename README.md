@@ -33,15 +33,15 @@ How to use:
 - 21: Output display
 
 Keyboard Shortcuts:
-# ~ = not
-# & = and
-# | = or
-# @ = for all
-# \ = exists
-# $ = implies
-# _ = subset
-# % = bidirectional
-# # = not equal
+- ~ = not
+- & = and
+- | = or
+- @ = for all
+- \ = exists
+- $ = implies
+- _ = subset
+- % = bidirectional
+- # = not equal
 
 ## Planned Changes:
 - Implement validation of expanded expressions
