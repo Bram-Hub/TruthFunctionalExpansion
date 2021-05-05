@@ -4,6 +4,7 @@
 Cole Feuer and David Wiser
 
 ## About:
+The TruthFunctionalExpansion tool takes given First order logic statement as well as a universe of discourse, and then produces a proposition logic expression than can be validate using a short truth tree.  This method specifically can be used to prove FO invalidity
 
 How to use:
 
@@ -11,6 +12,7 @@ How to use:
 ## Planned Changes:
 - Implement validation of expanded expressions
 - Fix backspace and reset 
+- Fix unicode conversion
 
 ## Installation:
 ### Windows
