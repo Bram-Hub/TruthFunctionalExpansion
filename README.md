@@ -1,8 +1,7 @@
 # TruthFunctionalExpansion
 ## Authors
 2021:
-Cole Feuer
-David Wiser
+Cole Feuer and David Wiser
 
 ## About
 
